@@ -18,8 +18,7 @@ Currently focused on cloud automation, containerization, and infrastructure as c
 ## 🎓 Education & Certifications
 - Bachelor's Degree in English Language and Literature
 - AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
-
+  
 ---
 
 ## 🚀 Projects Portfolio 
