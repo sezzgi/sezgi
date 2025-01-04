@@ -75,7 +75,7 @@ Currently focused on cloud automation, containerization, and infrastructure as c
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdfgh/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezgi-ozeren-430a06343/)
 [![Gmail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:sezozrn@gmail.com)
 
 ---
