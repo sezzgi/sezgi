@@ -27,7 +27,7 @@ Currently focused on cloud automation, containerization, and infrastructure as c
 - **Purpose:** Demonstrates microservices architecture for enterprise applications.
 - **What it Does:** Provides service discovery, API gateway, and monitoring.
 - **Technologies:** Maven, Docker, Kubernetes, Grafana, Prometheus, Git, MySQL
-- [Link to Project](https://github.com/sezzgi/PetClinic-Microservices)
+- [Link to Project](https://github.com/sezzgi/Spring-PetClinic-Microservices)
 
 ### Project 2: Automated CI/CD Pipeline for Web Application
 - **Purpose:** Automates deployment of a containerized web app on AWS.
