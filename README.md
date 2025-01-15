@@ -5,15 +5,14 @@ DevOps/Cloud/Platform Engineer
 
 ## About Me
 
-With a major in English Language and Literature and extensive experience in customer service, I offer a unique perspective on technical implementation and communication in cloud environments. I am skilled in implementing cloud solutions and CI/CD pipelines, effectively bridging the gap between technical and business needs. My demonstrated successes include:
+AWS Certified Solutions Architect leveraging hands-on DevOps project experience and a unique background in customer service. Through practical implementation of cloud solutions, I've developed expertise in:
 
-- Building and automating cloud infrastructure using AWS services
+- Architecting and automating scalable cloud infrastructure 
 - Implementing efficient CI/CD pipelines and monitoring solutions
 - Translating complex technical concepts for diverse stakeholders
 - Driving collaborative solutions through clear communication
-- Developing audience-focused technical documentation
 
-Currently focused on cloud automation, containerization, and infrastructure as code, while applying customer-centric problem-solving to DevOps practices.
+Currently focused on cloud automation and infrastructure as code while actively seeking an entry-level DevOps role to contribute these skills in a professional environment.
 
 ## 🎓 Education & Certifications
 - Bachelor's Degree in English Language and Literature
@@ -55,11 +54,15 @@ Currently focused on cloud automation, containerization, and infrastructure as c
 
 ## 💻 Technical Skills
 
-- **Cloud Platforms:** AWS (EC2, ECS, EKS, ECR, ELB, Lambda, S3, CloudFront, CloudFormation, RDS, DynamoDB)
-- **Infrastructure as Code:** Terraform, Ansible
+- **Cloud Platforms:** AWS
+  - Compute: EC2, ECS, EKS, Lambda
+  - Storage: S3, ELB, CloudFront
+  - Database: RDS, DynamoDB
+  - Infrastructure: CloudFormation
+- **Infrastructure as Code & Configuration Management:** Terraform, Ansible
 - **Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
 - **CI/CD & Version Control:** Jenkins, GitLab, Github Actions, Git
-- **Programming & Scripting:** Python, Bash, Java
+- **Programming & Scripting:** Python, Bash/Shell, Javascript
 - **Monitoring:** Prometheus, Grafana
 - **Workflow Automation:** GitHub Workflows, Argo Workflows
 
