@@ -79,6 +79,6 @@ Currently focused on cloud automation and infrastructure as code while actively 
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezgi-ozeren/)
-[![Gmail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:sezozrn@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:sezgiozeren@gmail.com)
 
 ---
